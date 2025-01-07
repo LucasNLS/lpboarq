@@ -1,2 +1,3 @@
 # lpboarq
-Pagina web para la Lu y el Luisfer
+
+Website created for lpboarq, hosting their projects, and other information for people to view online.
